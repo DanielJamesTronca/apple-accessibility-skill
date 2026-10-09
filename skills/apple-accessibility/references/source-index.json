@@ -1,0 +1,1194 @@
+{
+  "sdk": "Xcode 27.1 (27A9269)",
+  "checked": "2026-10-09",
+  "documentation_pages_retrieved_total": 2018,
+  "documentation": [
+    {
+      "title": "Accessibility API",
+      "url": "https://developer.apple.com/documentation/accessibility/accessibility-api",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility for visionOS",
+      "url": "https://developer.apple.com/documentation/accessibility/accessibility-for-visionos",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility Inspector",
+      "url": "https://developer.apple.com/documentation/accessibility/accessibility-inspector",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility design for Mac Catalyst",
+      "url": "https://developer.apple.com/documentation/accessibility/accessibility_design_for_mac_catalyst",
+      "kind": "documentation",
+      "ios_introduced": "14.0.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Animated images",
+      "url": "https://developer.apple.com/documentation/accessibility/animated-images",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Assistive Access",
+      "url": "https://developer.apple.com/documentation/accessibility/assistive-access",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Assistive technologies",
+      "url": "https://developer.apple.com/documentation/accessibility/assistive-technologies",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Audio graphs",
+      "url": "https://developer.apple.com/documentation/accessibility/audio-graphs",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Braille displays",
+      "url": "https://developer.apple.com/documentation/accessibility/braille-displays",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Braille HID reference for connecting to Apple platforms",
+      "url": "https://developer.apple.com/documentation/accessibility/braille-hid-reference-for-connecting-to-apple-platforms",
+      "kind": "documentation",
+      "ios_introduced": "12.0.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Brain-computer interface HID reference for connecting to Apple platforms",
+      "url": "https://developer.apple.com/documentation/accessibility/brain-computer-interface-hid-reference-for-connecting-to-apple-platforms",
+      "kind": "documentation",
+      "ios_introduced": "26.0.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Cognitive",
+      "url": "https://developer.apple.com/documentation/accessibility/cognitive",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Customized accessibility content",
+      "url": "https://developer.apple.com/documentation/accessibility/customized-accessibility-content",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Delivering an exceptional accessibility experience",
+      "url": "https://developer.apple.com/documentation/accessibility/delivering_an_exceptional_accessibility_experience",
+      "kind": "documentation",
+      "ios_introduced": "12.0.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Enhancing the accessibility of your SwiftUI app",
+      "url": "https://developer.apple.com/documentation/accessibility/enhancing-the-accessibility-of-your-swiftui-app",
+      "kind": "documentation",
+      "ios_introduced": "18.0.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Hearing",
+      "url": "https://developer.apple.com/documentation/accessibility/hearing",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Hearing device support",
+      "url": "https://developer.apple.com/documentation/accessibility/hearing-device-support",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Horizontal text",
+      "url": "https://developer.apple.com/documentation/accessibility/horizontal-text",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Inspecting the accessibility of the screens in your app",
+      "url": "https://developer.apple.com/documentation/accessibility/inspecting-the-accessibility-of-screens",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Integrating accessibility into your app",
+      "url": "https://developer.apple.com/documentation/accessibility/integrating-accessibility-into-your-app",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Mobility",
+      "url": "https://developer.apple.com/documentation/accessibility/mobility",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Optimizing your app for Assistive Access",
+      "url": "https://developer.apple.com/documentation/accessibility/optimizing-your-app-for-assistive-access",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Performing accessibility audits for your app",
+      "url": "https://developer.apple.com/documentation/accessibility/performing-accessibility-audits-for-your-app",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Performing accessibility testing for your app",
+      "url": "https://developer.apple.com/documentation/accessibility/performing-accessibility-testing-for-your-app",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Representing chart data as an audio graph",
+      "url": "https://developer.apple.com/documentation/accessibility/representing-chart-data-as-an-audio-graph",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Specifications",
+      "url": "https://developer.apple.com/documentation/accessibility/specifications",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Speech",
+      "url": "https://developer.apple.com/documentation/accessibility/speech",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Switch Control",
+      "url": "https://developer.apple.com/documentation/accessibility/switch-control",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Testing system accessibility features in your app",
+      "url": "https://developer.apple.com/documentation/accessibility/testing-system-accessibility-features-in-your-app",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Vision",
+      "url": "https://developer.apple.com/documentation/accessibility/vision",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Voice Control",
+      "url": "https://developer.apple.com/documentation/accessibility/voice-control",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "VoiceOver",
+      "url": "https://developer.apple.com/documentation/accessibility/voiceover",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "WWDC21 Challenge: Large Text Challenge",
+      "url": "https://developer.apple.com/documentation/accessibility/wwdc21_challenge_large_text_challenge",
+      "kind": "documentation",
+      "ios_introduced": "14.0.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "WWDC21 Challenge: Speech Synthesizer Simulator",
+      "url": "https://developer.apple.com/documentation/accessibility/wwdc21_challenge_speech_synthesizer_simulator",
+      "kind": "documentation",
+      "ios_introduced": "15.0.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "WWDC21 Challenge: VoiceOver Maze",
+      "url": "https://developer.apple.com/documentation/accessibility/wwdc21_challenge_voiceover_maze",
+      "kind": "documentation",
+      "ios_introduced": "15.0.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "WWDC22 Challenge: Learn Switch Control through gaming",
+      "url": "https://developer.apple.com/documentation/accessibility/wwdc22_challenge_learn_switch_control_through_gaming",
+      "kind": "documentation",
+      "ios_introduced": "16.0.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility updates",
+      "url": "https://developer.apple.com/documentation/updates/accessibility",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility for AppKit",
+      "url": "https://developer.apple.com/documentation/appkit/accessibility-for-appkit",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility Functions",
+      "url": "https://developer.apple.com/documentation/appkit/accessibility-functions",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "NSAccessibility",
+      "url": "https://developer.apple.com/documentation/appkit/nsaccessibility",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Speech synthesis",
+      "url": "https://developer.apple.com/documentation/avfaudio/speech-synthesis",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Captions",
+      "url": "https://developer.apple.com/documentation/mediaaccessibility/captions",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Flashing lights",
+      "url": "https://developer.apple.com/documentation/mediaaccessibility/flashing-lights",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Music Haptics",
+      "url": "https://developer.apple.com/documentation/mediaaccessibility/music-haptics",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Responding to changes in the flashing lights setting",
+      "url": "https://developer.apple.com/documentation/mediaaccessibility/responding-to-changes-in-the-flashing-lights-setting",
+      "kind": "documentation",
+      "ios_introduced": "16.4.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Improving the Accessibility of RealityKit Apps",
+      "url": "https://developer.apple.com/documentation/realitykit/improving-the-accessibility-of-realitykit-apps",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility fundamentals",
+      "url": "https://developer.apple.com/documentation/swiftui/accessibility-fundamentals",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessible appearance",
+      "url": "https://developer.apple.com/documentation/swiftui/accessible-appearance",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessible controls",
+      "url": "https://developer.apple.com/documentation/swiftui/accessible-controls",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessible descriptions",
+      "url": "https://developer.apple.com/documentation/swiftui/accessible-descriptions",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessible navigation",
+      "url": "https://developer.apple.com/documentation/swiftui/accessible-navigation",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Applying custom fonts to text",
+      "url": "https://developer.apple.com/documentation/swiftui/applying-custom-fonts-to-text",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Creating accessible views",
+      "url": "https://developer.apple.com/documentation/swiftui/creating-accessible-views",
+      "kind": "documentation",
+      "ios_introduced": "15.0.0",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility modifiers",
+      "url": "https://developer.apple.com/documentation/swiftui/view-accessibility",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility for UIKit",
+      "url": "https://developer.apple.com/documentation/uikit/accessibility-for-uikit",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Scaling fonts automatically",
+      "url": "https://developer.apple.com/documentation/uikit/scaling-fonts-automatically",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Supporting VoiceOver in your app",
+      "url": "https://developer.apple.com/documentation/uikit/supporting-voiceover-in-your-app",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "UIAccessibility",
+      "url": "https://developer.apple.com/documentation/uikit/uiaccessibility-protocol",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "UIAccessibilityContainer",
+      "url": "https://developer.apple.com/documentation/uikit/uiaccessibilitycontainer",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Improving accessibility support in your visionOS app",
+      "url": "https://developer.apple.com/documentation/visionos/improving-accessibility-support-in-your-app",
+      "kind": "documentation",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Accessibility",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/accessibility",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Alerts",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/alerts",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Buttons",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/buttons",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Charts",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/charts",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Color",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/color",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Dark Mode",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/dark-mode",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Designing for games",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-games",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Designing for macOS",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-macos",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Designing for tvOS",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-tvos",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Designing for visionOS",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Designing for watchOS",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-watchos",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Digital Crown",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/digital-crown",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Entering data",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/entering-data",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Eyes",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/eyes",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Feedback",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/feedback",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Focus and selection",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/focus-and-selection",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Game controls",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/game-controls",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Gestures",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/gestures",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Images",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/images",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Immersive experiences",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/immersive-experiences",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Inclusion",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/inclusion",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Keyboards",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/keyboards",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Launching",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/launching",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Layout",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/layout",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Loading",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/loading",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Materials",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/materials",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Motion",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/motion",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Onboarding",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/onboarding",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Playing audio",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/playing-audio",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Playing haptics",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/playing-haptics",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Playing video",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/playing-video",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Pointing devices",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/pointing-devices",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Right to left",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/right-to-left",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: SF Symbols",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/sf-symbols",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Siri",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/siri",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Sliders",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/sliders",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Spatial layout",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/spatial-layout",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Text fields",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/text-fields",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Toggles",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/toggles",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Typography",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/typography",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: VoiceOver",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/voiceover",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "HIG: Writing",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/writing",
+      "kind": "design",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Audio Descriptions evaluation criteria",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/audio-descriptions-evaluation-criteria",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Captions evaluation criteria",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/captions-evaluation-criteria",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Dark Interface evaluation criteria",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/dark-interface-evaluation-criteria",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Differentiate Without Color Alone evaluation criteria",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/differentiate-without-color-alone-evaluation-criteria",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Larger Text evaluation criteria",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/larger-text-evaluation-criteria",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Manage Accessibility Nutrition Labels",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/manage-accessibility-nutrition-labels",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Overview of Accessibility Nutrition Labels",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/overview-of-accessibility-nutrition-labels",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Reduced Motion evaluation criteria",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/reduced-motion-evaluation-criteria",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Sufficient Contrast evaluation criteria",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/sufficient-contrast-evaluation-criteria",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Voice Control evaluation criteria",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/voice-control-evaluation-criteria",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "VoiceOver evaluation criteria",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/voiceover-evaluation-criteria",
+      "kind": "app-store-connect",
+      "ios_introduced": null,
+      "retrieved": "2026-10-09"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Prepare your app for Accessibility Nutrition Labels",
+      "url": "https://developer.apple.com/videos/play/tech-talks/111433/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Convenience for You is Independence for Me",
+      "url": "https://developer.apple.com/videos/play/wwdc2017/110/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Deliver an Exceptional Accessibility Experience",
+      "url": "https://developer.apple.com/videos/play/wwdc2018/230/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility in SwiftUI",
+      "url": "https://developer.apple.com/videos/play/wwdc2019/238/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Visual Design and Accessibility",
+      "url": "https://developer.apple.com/videos/play/wwdc2019/244/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Creating an Accessible Reading Experience",
+      "url": "https://developer.apple.com/videos/play/wwdc2019/248/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Making Apps More Accessible With Custom Actions",
+      "url": "https://developer.apple.com/videos/play/wwdc2019/250/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Writing Great Accessibility Labels",
+      "url": "https://developer.apple.com/videos/play/wwdc2019/254/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility Inspector",
+      "url": "https://developer.apple.com/videos/play/wwdc2019/257/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Large Content Viewer - Ensuring Readability for Everyone",
+      "url": "https://developer.apple.com/videos/play/wwdc2019/261/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "App accessibility for Switch Control",
+      "url": "https://developer.apple.com/videos/play/wwdc2020/10019/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Make your app visually accessible",
+      "url": "https://developer.apple.com/videos/play/wwdc2020/10020/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Create a seamless speech experience in your apps",
+      "url": "https://developer.apple.com/videos/play/wwdc2020/10022/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "VoiceOver efficiency with custom rotors",
+      "url": "https://developer.apple.com/videos/play/wwdc2020/10116/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility design for Mac Catalyst",
+      "url": "https://developer.apple.com/videos/play/wwdc2020/10117/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "SwiftUI Accessibility: Beyond the basics",
+      "url": "https://developer.apple.com/videos/play/wwdc2021/10119/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Support Full Keyboard Access in your iOS app",
+      "url": "https://developer.apple.com/videos/play/wwdc2021/10120/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Tailor the VoiceOver experience in your data-rich apps",
+      "url": "https://developer.apple.com/videos/play/wwdc2021/10121/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Bring accessibility to charts in your app",
+      "url": "https://developer.apple.com/videos/play/wwdc2021/10122/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Create accessible experiences for watchOS",
+      "url": "https://developer.apple.com/videos/play/wwdc2021/10223/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "The practice of inclusive design",
+      "url": "https://developer.apple.com/videos/play/wwdc2021/10275/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "The process of inclusive design",
+      "url": "https://developer.apple.com/videos/play/wwdc2021/10304/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility by design: An Apple Watch for everyone",
+      "url": "https://developer.apple.com/videos/play/wwdc2021/10308/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Developer spotlight: Accessibility",
+      "url": "https://developer.apple.com/videos/play/wwdc2021/10318/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Get it right (to left)",
+      "url": "https://developer.apple.com/videos/play/wwdc2022/10107/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Add accessibility to your Unity games",
+      "url": "https://developer.apple.com/videos/play/wwdc2022/10151/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Create accessible Single App Mode experiences",
+      "url": "https://developer.apple.com/videos/play/wwdc2022/10152/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "What's new in web accessibility",
+      "url": "https://developer.apple.com/videos/play/wwdc2022/10153/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Meet Assistive Access",
+      "url": "https://developer.apple.com/videos/play/wwdc2023/10032/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Extend Speech Synthesis with personal and custom voices",
+      "url": "https://developer.apple.com/videos/play/wwdc2023/10033/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Create accessible spatial experiences",
+      "url": "https://developer.apple.com/videos/play/wwdc2023/10034/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Perform accessibility audits for your app",
+      "url": "https://developer.apple.com/videos/play/wwdc2023/10035/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Build accessible apps with SwiftUI and UIKit",
+      "url": "https://developer.apple.com/videos/play/wwdc2023/10036/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Design considerations for vision and motion",
+      "url": "https://developer.apple.com/videos/play/wwdc2023/10078/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Catch up on accessibility in SwiftUI",
+      "url": "https://developer.apple.com/videos/play/wwdc2024/10073/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Get started with Dynamic Type",
+      "url": "https://developer.apple.com/videos/play/wwdc2024/10074/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Meet Liquid Glass",
+      "url": "https://developer.apple.com/videos/play/wwdc2025/219/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Evaluate your app for Accessibility Nutrition Labels",
+      "url": "https://developer.apple.com/videos/play/wwdc2025/224/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Make your Mac app more accessible to everyone",
+      "url": "https://developer.apple.com/videos/play/wwdc2025/229/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Customize your app for Assistive Access",
+      "url": "https://developer.apple.com/videos/play/wwdc2025/238/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Explore spatial accessory input on visionOS",
+      "url": "https://developer.apple.com/videos/play/wwdc2025/289/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Principles of inclusive app design",
+      "url": "https://developer.apple.com/videos/play/wwdc2025/316/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Get to know the new design system",
+      "url": "https://developer.apple.com/videos/play/wwdc2025/356/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Make a big impact with small writing changes",
+      "url": "https://developer.apple.com/videos/play/wwdc2025/404/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Platforms State of the Union",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/102/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "What’s new in WebKit for Safari 27",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/204/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Enhance the accessibility of your reading app",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/219/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Refine accessibility for custom controls",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/220/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Prepare your tvOS apps for Dynamic Type",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/221/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Principles of great design",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/250/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Discover generated subtitles and subtitle styles",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/256/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "What’s new in Xcode 27",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/258/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Get the most out of Device Hub",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/260/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "What’s new in SwiftUI",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/269/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Modernize your UIKit app",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/278/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Build next-generation experiences with visionOS 27",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/287/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Modernize your AppKit app",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/289/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Craft clear names for features and labels in your app",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/290/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Meet the Now Playing framework",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/312/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Make your game great with touch",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/358/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Elevate your app’s text experience with TextKit",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/370/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Accessibility Technologies Group Lab",
+      "url": "https://developer.apple.com/videos/play/wwdc2026/8005/",
+      "material": "page transcript + English HLS captions",
+      "retrieved": "2026-10-09"
+    }
+  ],
+  "forums": [
+    {
+      "title": "Accessibility & Inclusion topic listing",
+      "url": "https://developer.apple.com/forums/topics/accessibility-and-inclusion",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "VoiceOver in Device Hub",
+      "url": "https://developer.apple.com/forums/thread/850145",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Auto-generated subtitles not working? (tvOS 27 Beta)",
+      "url": "https://developer.apple.com/forums/thread/844204",
+      "retrieved": "2026-10-09"
+    },
+    {
+      "title": "Best practices for iOS Full Keyboard Access navigation?",
+      "url": "https://developer.apple.com/forums/thread/837922",
+      "retrieved": "2026-10-09"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "apple-accessibility",
+  "version": "1.0.0",
+  "description": "Design, implement, review, and test accessibility in Apple-platform apps: VoiceOver, Voice Control, Switch Control, Dynamic Type, visual settings, captions, Assistive Access, audits, and Accessibility Nutrition Labels.",
+  "author": {
+    "name": "Daniel James Tronca",
+    "email": "danieljames.forwork@gmail.com",
+    "url": "https://github.com/DanielJamesTronca"
+  },
+  "homepage": "https://github.com/DanielJamesTronca/apple-accessibility-skill",
+  "repository": "https://github.com/DanielJamesTronca/apple-accessibility-skill",
+  "license": "MIT",
+  "keywords": [
+    "accessibility",
+    "voiceover",
+    "dynamic-type",
+    "swiftui",
+    "uikit",
+    "appkit",
+    "visionos",
+    "nutrition-labels",
+    "assistive-access",
+    "ios"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Apple Accessibility",
+    "shortDescription": "Make Apple-platform apps accessible to everyone.",
+    "longDescription": "Apply researched Apple guidance (through iOS 27 and Xcode 27.1) to VoiceOver semantics, custom controls, Dynamic Type, visual and motion settings, motor and cognitive accessibility, media, audits, and App Store Accessibility Nutrition Labels.",
+    "developerName": "Daniel James Tronca",
+    "category": "Design",
+    "capabilities": [],
+    "websiteURL": "https://github.com/DanielJamesTronca/apple-accessibility-skill",
+    "defaultPrompt": [
+      "Audit this screen for VoiceOver and Dynamic Type issues.",
+      "Make this custom SwiftUI control accessible.",
+      "Evaluate my app for Accessibility Nutrition Labels."
+    ]
+  }
+}

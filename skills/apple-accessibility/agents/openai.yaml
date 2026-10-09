@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Accessibility"
+  short_description: "Make Apple-platform apps accessible to everyone."
+  default_prompt: "Use $apple-accessibility to review, implement, or test accessibility in this app, preserving its design and supported OS versions, and report which assistive-technology checks actually ran."

@@ -1,0 +1,23 @@
+{
+  "name": "apple-accessibility",
+  "description": "Design, implement, review, and test accessibility in Apple-platform apps: VoiceOver, Voice Control, Switch Control, Dynamic Type, visual settings, captions, Assistive Access, audits, and Accessibility Nutrition Labels.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel James Tronca"
+  },
+  "homepage": "https://github.com/DanielJamesTronca/apple-accessibility-skill",
+  "repository": "https://github.com/DanielJamesTronca/apple-accessibility-skill",
+  "license": "MIT",
+  "keywords": [
+    "accessibility",
+    "voiceover",
+    "dynamic-type",
+    "swiftui",
+    "uikit",
+    "appkit",
+    "visionos",
+    "nutrition-labels",
+    "assistive-access",
+    "ios"
+  ]
+}

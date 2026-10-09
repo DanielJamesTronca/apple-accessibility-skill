@@ -1,0 +1,123 @@
+{
+  "purpose": "Manual forward evaluations of observable decisions; no exact wording assertions.",
+  "scenarios": [
+    {
+      "name": "swiftui-screen-review",
+      "prompt": "Review this SwiftUI product screen for VoiceOver and Dynamic Type. It uses icon-only buttons, a star rating built from tappable images, .font(.system(size: 14)) everywhere, and a promo carousel that auto-advances. Keep the visual design and the iOS 17 deployment target.",
+      "assess": [
+        "Reports blocked tasks with element, file/line, and smallest fix",
+        "Makes the rating one adjustable element or an accessibilityRepresentation",
+        "Labels icon buttons by action and keeps SF Symbol defaults only when accurate",
+        "Moves text to text styles or relativeTo: fonts and reflows at accessibility sizes",
+        "Stops auto-advance under Reduce Motion or adds a pause control",
+        "Gates iOS 18+/26+ APIs and doesn't raise the deployment target"
+      ]
+    },
+    {
+      "name": "custom-gesture-control",
+      "prompt": "Our drawing canvas zooms with pinch, pans with two fingers, and deletes strokes with a long press. Make it usable with VoiceOver, Switch Control, and Voice Control.",
+      "assess": [
+        "Adds zoom action and named custom actions or menu commands for pan and delete",
+        "Considers direct touch with requiresActivation for drawing while keeping actions",
+        "Uses the SDK-valid accessibilityAction(named:) and accessibilityDirectTouch(options:)",
+        "Announces results without flooding speech",
+        "Lists device checks that remain"
+      ]
+    },
+    {
+      "name": "nutrition-label-claim",
+      "prompt": "Can we claim VoiceOver, Larger Text, and Captions for our iPhone and Apple TV app? Sign-in uses a custom PIN pad, descriptions truncate at AX3, and only half the catalog has captions.",
+      "assess": [
+        "Decides per device and feature against common tasks",
+        "Does not claim VoiceOver until the PIN pad works with VoiceOver",
+        "Withholds Larger Text while essential text truncates; notes tvOS 27 Large Text",
+        "Explains the caption-availability rule and CC badges",
+        "Mentions accuracy under App Review Guideline 2.3 and the accessibility URL"
+      ]
+    },
+    {
+      "name": "uikit-carousel-modal",
+      "prompt": "In our UIKit app the favorite button is only reachable after swiping through every carousel item, and VoiceOver can reach views behind our custom photo overlay.",
+      "assess": [
+        "Uses an adjustable carousel element returned from accessibilityElements with the buttons",
+        "Posts layout changes on scroll",
+        "Sets accessibilityViewIsModal and posts a screen change; supports escape",
+        "Doesn't replace the presentation architecture unnecessarily"
+      ]
+    },
+    {
+      "name": "mac-pro-app",
+      "prompt": "Our SwiftUI Mac app has a 60-control inspector and actions that appear on hover. VoiceOver users say it takes forever to get around.",
+      "assess": [
+        "Groups regions into labeled containers without deep nesting",
+        "Uses sort priority and rotors where scanning is visual",
+        "Exposes hover actions as actions plus keyboard shortcuts or visible controls",
+        "Notes Mac users' reliance on keyboard accelerators"
+      ]
+    },
+    {
+      "name": "reading-app",
+      "prompt": "Our reader draws each page with Core Text and splits paragraphs into separate views. VoiceOver read-all stops at the end of each page and line navigation stops at each paragraph.",
+      "assess": [
+        "Links paragraphs (text navigation elements or accessibilityLinkedGroup on iOS 27)",
+        "Adds causesPageTurn and accessibilityScroll with a page-scrolled announcement",
+        "Recommends UITextInput (or UIAccessibilityReadingContent) for drawn text",
+        "Puts selection actions in the edit rotor"
+      ]
+    },
+    {
+      "name": "assistive-access",
+      "prompt": "Add Assistive Access support to our iOS 17+ photo app built with a UIKit app delegate.",
+      "assess": [
+        "Chooses between the iOS 26 scene with UISupportsAssistiveAccess and full-screen mode with the correct keys",
+        "Uses an NSObject UIHostingSceneDelegate and the windowAssistiveAccessApplication role",
+        "Gates the scene for iOS 26",
+        "Applies the design principles: one or two tasks, icons with text, no hidden gestures or timers, guarded deletion"
+      ]
+    },
+    {
+      "name": "visionos-realitykit",
+      "prompt": "Make our visionOS game's RealityKit targets accessible. Players hit them with a two-handed gesture, and the HUD follows the head.",
+      "assess": [
+        "Adds AccessibilityComponent with label, value, traits, and activate action",
+        "Handles Direct Gesture mode with announcements",
+        "Provides alternatives to the two-handed gesture",
+        "Re-anchors the HUD when accessibilityPrefersHeadAnchorAlternative is true"
+      ]
+    },
+    {
+      "name": "regression-testing",
+      "prompt": "Set up CI so accessibility doesn't regress in our iOS app.",
+      "assess": [
+        "Adds performAccessibilityAudit with documented ignores and per-screen coverage",
+        "Uses accessibilityIdentifier rather than labels in tests",
+        "Considers the iOS 27 XCUIVoiceOverService with its beta caveats",
+        "States what automation can't verify"
+      ]
+    },
+    {
+      "name": "media-player",
+      "prompt": "Our custom AVPlayerLayer player renders its own subtitles. Users say captions ignore their caption style and don't turn on automatically.",
+      "assess": [
+        "Reads MediaAccessibility caption appearance and observes changes",
+        "Defaults captions from the system preference",
+        "Adds a selection UI and subtitle style preview where available (iOS 26.4)",
+        "Mentions generated subtitles in iOS 27 and audio descriptions"
+      ]
+    },
+    {
+      "name": "discovery-boundary-web",
+      "prompt": "Audit our React marketing site for WCAG 2.2 AA.",
+      "assess": [
+        "Doesn't apply Apple-platform API guidance to a web-only project beyond noting WebKit/VoiceOver testing"
+      ]
+    },
+    {
+      "name": "discovery-boundary-unrelated",
+      "prompt": "Change the tint color of our app's Liquid Glass toolbar.",
+      "assess": [
+        "Doesn't expand into an accessibility audit; at most notes contrast checks for the new tint"
+      ]
+    }
+  ]
+}

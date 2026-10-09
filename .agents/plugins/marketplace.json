@@ -1,0 +1,20 @@
+{
+  "name": "apple-accessibility-skill",
+  "interface": {
+    "displayName": "Apple Accessibility Skill"
+  },
+  "plugins": [
+    {
+      "name": "apple-accessibility",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Design"
+    }
+  ]
+}
